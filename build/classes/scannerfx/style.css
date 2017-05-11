@@ -1,0 +1,12 @@
+.root{
+    -fx-background-color: white;
+}
+
+.scan-btn{
+    -fx-background-color: #59B971;
+    -fx-background-radius: 40;
+    -fx-border-style: none;
+    -fx-border-radius: 40;
+}
+
+
